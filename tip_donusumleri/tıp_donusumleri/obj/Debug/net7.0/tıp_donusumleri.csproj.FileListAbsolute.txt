@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\vakıfbanknet\tip_donusumleri\tıp_donusumleri\bin\Debug\net7.0\tıp_donusumleri.exe
+C:\Users\DELL\Desktop\vakıfbanknet\tip_donusumleri\tıp_donusumleri\bin\Debug\net7.0\tıp_donusumleri.deps.json
+C:\Users\DELL\Desktop\vakıfbanknet\tip_donusumleri\tıp_donusumleri\bin\Debug\net7.0\tıp_donusumleri.runtimeconfig.json
+C:\Users\DELL\Desktop\vakıfbanknet\tip_donusumleri\tıp_donusumleri\bin\Debug\net7.0\tıp_donusumleri.dll
+C:\Users\DELL\Desktop\vakıfbanknet\tip_donusumleri\tıp_donusumleri\bin\Debug\net7.0\tıp_donusumleri.pdb
+C:\Users\DELL\Desktop\vakıfbanknet\tip_donusumleri\tıp_donusumleri\obj\Debug\net7.0\tıp_donusumleri.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\vakıfbanknet\tip_donusumleri\tıp_donusumleri\obj\Debug\net7.0\tıp_donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\vakıfbanknet\tip_donusumleri\tıp_donusumleri\obj\Debug\net7.0\tıp_donusumleri.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\vakıfbanknet\tip_donusumleri\tıp_donusumleri\obj\Debug\net7.0\tıp_donusumleri.AssemblyInfo.cs
+C:\Users\DELL\Desktop\vakıfbanknet\tip_donusumleri\tıp_donusumleri\obj\Debug\net7.0\tıp_donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\vakıfbanknet\tip_donusumleri\tıp_donusumleri\obj\Debug\net7.0\tıp_donusumleri.dll
+C:\Users\DELL\Desktop\vakıfbanknet\tip_donusumleri\tıp_donusumleri\obj\Debug\net7.0\refint\tıp_donusumleri.dll
+C:\Users\DELL\Desktop\vakıfbanknet\tip_donusumleri\tıp_donusumleri\obj\Debug\net7.0\tıp_donusumleri.pdb
+C:\Users\DELL\Desktop\vakıfbanknet\tip_donusumleri\tıp_donusumleri\obj\Debug\net7.0\tıp_donusumleri.genruntimeconfig.cache
+C:\Users\DELL\Desktop\vakıfbanknet\tip_donusumleri\tıp_donusumleri\obj\Debug\net7.0\ref\tıp_donusumleri.dll
