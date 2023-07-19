@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\vakıfbanknet\karar_yapıları\karar_yapıları\bin\Debug\net7.0\karar_yapıları.exe
+C:\Users\DELL\Desktop\vakıfbanknet\karar_yapıları\karar_yapıları\bin\Debug\net7.0\karar_yapıları.deps.json
+C:\Users\DELL\Desktop\vakıfbanknet\karar_yapıları\karar_yapıları\bin\Debug\net7.0\karar_yapıları.runtimeconfig.json
+C:\Users\DELL\Desktop\vakıfbanknet\karar_yapıları\karar_yapıları\bin\Debug\net7.0\karar_yapıları.dll
+C:\Users\DELL\Desktop\vakıfbanknet\karar_yapıları\karar_yapıları\bin\Debug\net7.0\karar_yapıları.pdb
+C:\Users\DELL\Desktop\vakıfbanknet\karar_yapıları\karar_yapıları\obj\Debug\net7.0\karar_yapıları.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\vakıfbanknet\karar_yapıları\karar_yapıları\obj\Debug\net7.0\karar_yapıları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\vakıfbanknet\karar_yapıları\karar_yapıları\obj\Debug\net7.0\karar_yapıları.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\vakıfbanknet\karar_yapıları\karar_yapıları\obj\Debug\net7.0\karar_yapıları.AssemblyInfo.cs
+C:\Users\DELL\Desktop\vakıfbanknet\karar_yapıları\karar_yapıları\obj\Debug\net7.0\karar_yapıları.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\vakıfbanknet\karar_yapıları\karar_yapıları\obj\Debug\net7.0\karar_yapıları.dll
+C:\Users\DELL\Desktop\vakıfbanknet\karar_yapıları\karar_yapıları\obj\Debug\net7.0\refint\karar_yapıları.dll
+C:\Users\DELL\Desktop\vakıfbanknet\karar_yapıları\karar_yapıları\obj\Debug\net7.0\karar_yapıları.pdb
+C:\Users\DELL\Desktop\vakıfbanknet\karar_yapıları\karar_yapıları\obj\Debug\net7.0\karar_yapıları.genruntimeconfig.cache
+C:\Users\DELL\Desktop\vakıfbanknet\karar_yapıları\karar_yapıları\obj\Debug\net7.0\ref\karar_yapıları.dll
