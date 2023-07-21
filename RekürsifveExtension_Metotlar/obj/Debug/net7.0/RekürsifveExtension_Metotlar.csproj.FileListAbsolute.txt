@@ -1,0 +1,15 @@
+C:\Users\DELL\desktop\vakıfbanknet\RekürsifveExtension_Metotlar\bin\Debug\net7.0\RekürsifveExtension_Metotlar.exe
+C:\Users\DELL\desktop\vakıfbanknet\RekürsifveExtension_Metotlar\bin\Debug\net7.0\RekürsifveExtension_Metotlar.deps.json
+C:\Users\DELL\desktop\vakıfbanknet\RekürsifveExtension_Metotlar\bin\Debug\net7.0\RekürsifveExtension_Metotlar.runtimeconfig.json
+C:\Users\DELL\desktop\vakıfbanknet\RekürsifveExtension_Metotlar\bin\Debug\net7.0\RekürsifveExtension_Metotlar.dll
+C:\Users\DELL\desktop\vakıfbanknet\RekürsifveExtension_Metotlar\bin\Debug\net7.0\RekürsifveExtension_Metotlar.pdb
+C:\Users\DELL\desktop\vakıfbanknet\RekürsifveExtension_Metotlar\obj\Debug\net7.0\RekürsifveExtension_Metotlar.csproj.AssemblyReference.cache
+C:\Users\DELL\desktop\vakıfbanknet\RekürsifveExtension_Metotlar\obj\Debug\net7.0\RekürsifveExtension_Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\desktop\vakıfbanknet\RekürsifveExtension_Metotlar\obj\Debug\net7.0\RekürsifveExtension_Metotlar.AssemblyInfoInputs.cache
+C:\Users\DELL\desktop\vakıfbanknet\RekürsifveExtension_Metotlar\obj\Debug\net7.0\RekürsifveExtension_Metotlar.AssemblyInfo.cs
+C:\Users\DELL\desktop\vakıfbanknet\RekürsifveExtension_Metotlar\obj\Debug\net7.0\RekürsifveExtension_Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\DELL\desktop\vakıfbanknet\RekürsifveExtension_Metotlar\obj\Debug\net7.0\RekürsifveExtension_Metotlar.dll
+C:\Users\DELL\desktop\vakıfbanknet\RekürsifveExtension_Metotlar\obj\Debug\net7.0\refint\RekürsifveExtension_Metotlar.dll
+C:\Users\DELL\desktop\vakıfbanknet\RekürsifveExtension_Metotlar\obj\Debug\net7.0\RekürsifveExtension_Metotlar.pdb
+C:\Users\DELL\desktop\vakıfbanknet\RekürsifveExtension_Metotlar\obj\Debug\net7.0\RekürsifveExtension_Metotlar.genruntimeconfig.cache
+C:\Users\DELL\desktop\vakıfbanknet\RekürsifveExtension_Metotlar\obj\Debug\net7.0\ref\RekürsifveExtension_Metotlar.dll
