@@ -1,0 +1,15 @@
+C:\Users\DELL\desktop\vakıfbanknet\metot_tanımlama\bin\Debug\net7.0\metot_tanımlama.exe
+C:\Users\DELL\desktop\vakıfbanknet\metot_tanımlama\bin\Debug\net7.0\metot_tanımlama.deps.json
+C:\Users\DELL\desktop\vakıfbanknet\metot_tanımlama\bin\Debug\net7.0\metot_tanımlama.runtimeconfig.json
+C:\Users\DELL\desktop\vakıfbanknet\metot_tanımlama\bin\Debug\net7.0\metot_tanımlama.dll
+C:\Users\DELL\desktop\vakıfbanknet\metot_tanımlama\bin\Debug\net7.0\metot_tanımlama.pdb
+C:\Users\DELL\desktop\vakıfbanknet\metot_tanımlama\obj\Debug\net7.0\metot_tanımlama.csproj.AssemblyReference.cache
+C:\Users\DELL\desktop\vakıfbanknet\metot_tanımlama\obj\Debug\net7.0\metot_tanımlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\desktop\vakıfbanknet\metot_tanımlama\obj\Debug\net7.0\metot_tanımlama.AssemblyInfoInputs.cache
+C:\Users\DELL\desktop\vakıfbanknet\metot_tanımlama\obj\Debug\net7.0\metot_tanımlama.AssemblyInfo.cs
+C:\Users\DELL\desktop\vakıfbanknet\metot_tanımlama\obj\Debug\net7.0\metot_tanımlama.csproj.CoreCompileInputs.cache
+C:\Users\DELL\desktop\vakıfbanknet\metot_tanımlama\obj\Debug\net7.0\metot_tanımlama.dll
+C:\Users\DELL\desktop\vakıfbanknet\metot_tanımlama\obj\Debug\net7.0\refint\metot_tanımlama.dll
+C:\Users\DELL\desktop\vakıfbanknet\metot_tanımlama\obj\Debug\net7.0\metot_tanımlama.pdb
+C:\Users\DELL\desktop\vakıfbanknet\metot_tanımlama\obj\Debug\net7.0\metot_tanımlama.genruntimeconfig.cache
+C:\Users\DELL\desktop\vakıfbanknet\metot_tanımlama\obj\Debug\net7.0\ref\metot_tanımlama.dll
