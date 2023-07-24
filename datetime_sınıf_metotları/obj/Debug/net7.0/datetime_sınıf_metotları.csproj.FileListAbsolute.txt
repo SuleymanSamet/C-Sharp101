@@ -1,0 +1,15 @@
+C:\Users\DELL\desktop\vakıfbanknet\datetime_sınıf_metotları\bin\Debug\net7.0\datetime_sınıf_metotları.exe
+C:\Users\DELL\desktop\vakıfbanknet\datetime_sınıf_metotları\bin\Debug\net7.0\datetime_sınıf_metotları.deps.json
+C:\Users\DELL\desktop\vakıfbanknet\datetime_sınıf_metotları\bin\Debug\net7.0\datetime_sınıf_metotları.runtimeconfig.json
+C:\Users\DELL\desktop\vakıfbanknet\datetime_sınıf_metotları\bin\Debug\net7.0\datetime_sınıf_metotları.dll
+C:\Users\DELL\desktop\vakıfbanknet\datetime_sınıf_metotları\bin\Debug\net7.0\datetime_sınıf_metotları.pdb
+C:\Users\DELL\desktop\vakıfbanknet\datetime_sınıf_metotları\obj\Debug\net7.0\datetime_sınıf_metotları.csproj.AssemblyReference.cache
+C:\Users\DELL\desktop\vakıfbanknet\datetime_sınıf_metotları\obj\Debug\net7.0\datetime_sınıf_metotları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\desktop\vakıfbanknet\datetime_sınıf_metotları\obj\Debug\net7.0\datetime_sınıf_metotları.AssemblyInfoInputs.cache
+C:\Users\DELL\desktop\vakıfbanknet\datetime_sınıf_metotları\obj\Debug\net7.0\datetime_sınıf_metotları.AssemblyInfo.cs
+C:\Users\DELL\desktop\vakıfbanknet\datetime_sınıf_metotları\obj\Debug\net7.0\datetime_sınıf_metotları.csproj.CoreCompileInputs.cache
+C:\Users\DELL\desktop\vakıfbanknet\datetime_sınıf_metotları\obj\Debug\net7.0\datetime_sınıf_metotları.dll
+C:\Users\DELL\desktop\vakıfbanknet\datetime_sınıf_metotları\obj\Debug\net7.0\refint\datetime_sınıf_metotları.dll
+C:\Users\DELL\desktop\vakıfbanknet\datetime_sınıf_metotları\obj\Debug\net7.0\datetime_sınıf_metotları.pdb
+C:\Users\DELL\desktop\vakıfbanknet\datetime_sınıf_metotları\obj\Debug\net7.0\datetime_sınıf_metotları.genruntimeconfig.cache
+C:\Users\DELL\desktop\vakıfbanknet\datetime_sınıf_metotları\obj\Debug\net7.0\ref\datetime_sınıf_metotları.dll
