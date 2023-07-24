@@ -1,0 +1,15 @@
+C:\Users\DELL\desktop\vakıfbanknet\Generic_KoleksiyonlarveList\bin\Debug\net7.0\Generic_KoleksiyonlarveList.exe
+C:\Users\DELL\desktop\vakıfbanknet\Generic_KoleksiyonlarveList\bin\Debug\net7.0\Generic_KoleksiyonlarveList.deps.json
+C:\Users\DELL\desktop\vakıfbanknet\Generic_KoleksiyonlarveList\bin\Debug\net7.0\Generic_KoleksiyonlarveList.runtimeconfig.json
+C:\Users\DELL\desktop\vakıfbanknet\Generic_KoleksiyonlarveList\bin\Debug\net7.0\Generic_KoleksiyonlarveList.dll
+C:\Users\DELL\desktop\vakıfbanknet\Generic_KoleksiyonlarveList\bin\Debug\net7.0\Generic_KoleksiyonlarveList.pdb
+C:\Users\DELL\desktop\vakıfbanknet\Generic_KoleksiyonlarveList\obj\Debug\net7.0\Generic_KoleksiyonlarveList.csproj.AssemblyReference.cache
+C:\Users\DELL\desktop\vakıfbanknet\Generic_KoleksiyonlarveList\obj\Debug\net7.0\Generic_KoleksiyonlarveList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\desktop\vakıfbanknet\Generic_KoleksiyonlarveList\obj\Debug\net7.0\Generic_KoleksiyonlarveList.AssemblyInfoInputs.cache
+C:\Users\DELL\desktop\vakıfbanknet\Generic_KoleksiyonlarveList\obj\Debug\net7.0\Generic_KoleksiyonlarveList.AssemblyInfo.cs
+C:\Users\DELL\desktop\vakıfbanknet\Generic_KoleksiyonlarveList\obj\Debug\net7.0\Generic_KoleksiyonlarveList.csproj.CoreCompileInputs.cache
+C:\Users\DELL\desktop\vakıfbanknet\Generic_KoleksiyonlarveList\obj\Debug\net7.0\Generic_KoleksiyonlarveList.dll
+C:\Users\DELL\desktop\vakıfbanknet\Generic_KoleksiyonlarveList\obj\Debug\net7.0\refint\Generic_KoleksiyonlarveList.dll
+C:\Users\DELL\desktop\vakıfbanknet\Generic_KoleksiyonlarveList\obj\Debug\net7.0\Generic_KoleksiyonlarveList.pdb
+C:\Users\DELL\desktop\vakıfbanknet\Generic_KoleksiyonlarveList\obj\Debug\net7.0\Generic_KoleksiyonlarveList.genruntimeconfig.cache
+C:\Users\DELL\desktop\vakıfbanknet\Generic_KoleksiyonlarveList\obj\Debug\net7.0\ref\Generic_KoleksiyonlarveList.dll
